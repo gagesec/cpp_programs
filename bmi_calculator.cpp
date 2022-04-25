@@ -87,12 +87,12 @@ void displayValues(int userWeight, int userHeight) {
         cout << "BMI Status: Underweight";
     }
 
-    //Between 18.5—24.9 | Healthy
+    //Between 18.5â€”24.9 | Healthy
     if (bmiStatus >= 18.5 && bmiStatus <= 24.9) {
        cout << "BMI Status: Healthy";
     }
 
-    //Between 25.0—29.9 | Overweight
+    //Between 25.0â€”29.9 | Overweight
     if (bmiStatus >= 25.0 && bmiStatus <= 29.9) {
         cout << "BMI Status: Overweight";
     }
