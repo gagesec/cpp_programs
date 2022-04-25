@@ -29,7 +29,7 @@ Change golf.txt to golf2.txt on line 32 to read file generated from previous pro
 using namespace std;
 
 //Config - File Location
-string fileLocation = "golf2.txt";
+string fileLocation = "golf.txt";
 
 //Declare Functions and Modules
 int processArraySize();
